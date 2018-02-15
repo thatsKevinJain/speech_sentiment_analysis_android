@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/raw/audio.raw",
+        "source": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/src/main/res/raw/audio.raw"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/raw/credential.json",
+        "source": "/Users/Kevin/Documents/Android Projects/Speech/app/src/main/res/raw/credential.json"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/raw/credential.json",
+        "source": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/src/main/res/raw/credential.json"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/raw/audio.raw",
+        "source": "/Users/Kevin/Documents/Android Projects/Speech/app/src/main/res/raw/audio.raw"
+    }
+]

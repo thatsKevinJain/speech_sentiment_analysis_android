@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    }
+]

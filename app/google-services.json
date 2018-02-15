@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "742301869392",
+    "firebase_url": "https://speech-analysis-194811.firebaseio.com",
+    "project_id": "speech-analysis-194811",
+    "storage_bucket": "speech-analysis-194811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742301869392:android:db68a6260753c6a1",
+        "android_client_info": {
+          "package_name": "com.google.cloud.android.speech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742301869392-qluok2lcuiae33k38p67b421vgprr3l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQRJzICElroxJ41ljKypFs8ZxHTNTIAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

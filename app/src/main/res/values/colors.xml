@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2016 Google Inc. All Rights Reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <color name="primary">#4CAF50</color>
+    <color name="primary_dark">#388E3C</color>
+    <color name="accent">#536DFE</color>
+
+    <color name="status_hearing">#7B1FA2</color>
+    <color name="status_not_hearing">#757575</color>
+
+    <color name="light_pink">#FED6E1</color>
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="refresh_progress_1">#00f6ff</color>
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+    <color name="notification_color">#2157af</color>
+    <color name="ORANGE">#e99440</color>
+    <color name="GREEN">#76b642</color>
+    <color name="WHITE">#ffffff</color>
+    <color name="RED">#f76e4f</color>
+    <color name="login_background">#eaf8ff</color>
+    <color name="default_bar">#26C6DA</color>
+    <color name="calulating_bar">#e64a19</color>
+    <color name="bus_arrived_bar">#7cb342</color>
+    <color name="BLACK">#000000</color>
+</resources>

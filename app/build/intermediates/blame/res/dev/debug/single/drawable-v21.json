@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Kevin/.android/build-cache/2fad5d1a835e513d19257f6e2915a7cf6c77bcc3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Kevin/.android/build-cache/0125aef52e239c65b9162f937c6b658804eb0154/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]

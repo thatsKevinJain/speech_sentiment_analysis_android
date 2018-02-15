@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/Users/Kevin/.android/build-cache/b87253e1c13e6a042c4e22f36be02a1004a8d122/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/round_corner_progress_icon.png",
+        "source": "/Users/Kevin/.android/build-cache/b87253e1c13e6a042c4e22f36be02a1004a8d122/output/res/mipmap-xhdpi/round_corner_progress_icon.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/Speech/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

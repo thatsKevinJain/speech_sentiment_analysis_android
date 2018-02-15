@@ -1,0 +1,4 @@
+#Sun Feb 11 13:45:02 IST 2018
+base.0=/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/transforms/dex/dev/debug/folders/1000/5/slice_7
+renamed.0=classes.dex
+file.0=/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/transforms/dex/dev/debug/folders/1000/5/slice_7/classes.dex

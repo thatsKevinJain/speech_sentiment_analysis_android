@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/Kevin/Documents/Android Projects/android-docs-samples/speech/Speech/app/build/intermediates/incremental/mergeDevDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/Kevin/.android/build-cache/bb6f9731d74aba740af96582d8e014abda6a4750/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

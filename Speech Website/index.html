@@ -1,0 +1,60 @@
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+    <nav>
+        <div class="nav-wrapper container">
+            <a href="#!" class="brand-logo">DJ Call Center</a>
+            <a href="#" data-activates="mobile-demo" class="button-collapse">
+                <i class="material-icons">menu</i>
+            </a>
+            <ul class="right hide-on-med-and-down">
+                <!-- <li>
+                    <a class="modal-trigger" href="#modal_1">Log in</a>
+                </li> -->
+            </ul>
+            <ul class="side-nav" id="mobile-demo">
+                <!-- <li>
+                    <a class="modal-trigger" href="#modal_1">Log in</a>
+                </li> -->
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container row">
+        <div class="col s12">
+            <div class="white-text card-panel red lighten-2">
+                <p>Average call duration:
+                    <span id="average_call"></span>
+                </p>
+                <p>Service level:
+                    <span id="service_level"></span>
+                </p>
+                <p>Total calls:
+                    <span id="total_calls"></span>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="container section">
+        <div class="row">
+            <div class="col s12">
+                <ul id="showList" data-collapsible="accordion" class="collapsible">
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/4.9.1/firebase.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
