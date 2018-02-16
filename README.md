@@ -10,6 +10,12 @@ Android app which will convert speech into text and then perform a sentiment/cla
 - Google Cloud Speech API
 - Google Natural Language API
 
+### Open Source Libraries Used
+- ButterKnife
+- RetroFit
+- RoundCornerProgressBar
+- MaterialDialog
+
 ### Additional Features
 - The result will be stored in Firebase Database, which then be viewed in a small webpage inside the folder **Speech Website**
 - The audio will be recorded and the text will be displayed synchronously
